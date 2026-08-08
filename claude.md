@@ -17,6 +17,12 @@ WhatsApp is always the more prominent of the two.
 
 Current Status
 
+Live on GitHub Pages (2026-08-09) at https://keshavarun.github.io/ from the
+public repo KeshavArun/KeshavArun.github.io, branch main, folder root.
+Deploy = commit to main and push; Pages rebuilds in about a minute. Local
+git identity is set to Keshav Arun / mcarun@gmail.com. A .gitignore covers
+OS junk, editor folders and .claude/settings.local.json.
+
 Rebuilt as CoAI (2026-08-07). The site is now branded as the agency CoAI,
 with Keshav Arun as the byline. Blue/violet gradient replaces red, spacing
 is tighter throughout, the hero photo is now a small avatar rather than a
